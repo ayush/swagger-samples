@@ -9,4 +9,4 @@ service/java/tomcat-7-jersey-1
 service/java/tomcat-7-jersey-2
 
 ### Tomcat 7 with RESTEasy 2.3.5
-service/java/tomcat-7-jersey-2
+service/java/tomcat-7-RESTEasy-2
